@@ -117,12 +117,6 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg"
     alt="Heroku logo"
   />
-  <img 
-    height="35" 
-    width="35" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
-    alt="Github logo"
-  />
     <img 
     height="35" 
     width="35" 
