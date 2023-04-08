@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=300&section=header&text=Hello,%20I'm%20Fergus&fontSize=90&animation=fadeIn&fontAlignY=35&desc=Fullstack%20Software%20Engineer%20)
 
 <div>
-  <p>Passionate about building and creating full-stack solutions with <img ref="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.dotnettricks.com%2Fpaths%2Fcareer%2Fbecome-mern-stack-developer&psig=AOvVaw3dXuE21AOq7NlP-F6ZgmRG&ust=1681071459316000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCLj4g62Nm_4CFQAAAAAdAAAAABAD"></img>, and Mobile Applications with React Native</p>
+  <p>Passionate about building and creating full-stack solutions with <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.dotnettricks.com%2Fpaths%2Fcareer%2Fbecome-mern-stack-developer&psig=AOvVaw3dXuE21AOq7NlP-F6ZgmRG&ust=1681071459316000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCLj4g62Nm_4CFQAAAAAdAAAAABAD"></img>, and Mobile Applications with React Native</p>
   <br />
   <p>🌐 Visit my <a href="https://www.fergusmagor.com">porfolio website</a> for more info</p>
   <br />
