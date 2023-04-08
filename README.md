@@ -2,7 +2,7 @@
 
 <div>
   <div style="display: flex; flex-direction: row; align-items: center; justify-content: center" >
-  Passionate about building and creating full-stack web solutions with
+    <a>Passionate about building and creating full-stack web solutions with</a>
   <img  height="65" width="65" src="/becomeamernstackdeveloper-mobile.png" />
   </div>
   <br />
