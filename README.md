@@ -3,7 +3,7 @@
 <div>
   <div >
   Passionate about building and creating full-stack web solutions with
-  <img  height="65" width="65"  src="/becomeamernstackdeveloper-mobile.png" />
+  <img  height="65" width="65" padding-top="50"  src="/becomeamernstackdeveloper-mobile.png" />
   </div>
   <br />
   <p>and building Mobile Applications with React Native + GraphQL + TyopeScript + AWS</p>
