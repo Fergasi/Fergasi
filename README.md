@@ -1,11 +1,11 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=300&section=header&text=Hello,%20I'm%20Fergus&fontSize=90&animation=fadeIn&fontAlignY=50&desc=Fullstack%20Software%20Engineer%20)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=300&section=header&text=Hello,%20I'm%20Fergus&fontSize=90&animation=fadeIn&fontAlignY=30&desc=Fullstack%20Software%20Engineer%20)
 
 <div>
   <br />
   <p>Passionate about building and creating full-stack solutions</p>
-  
+  <br />
   <p>🌐 Visit my porfolio website for more info and blogs</p>
-  
+  <br />
   <p>Feel free to contact me via ✉ <a href="mailto:hello@fergusmagor.com">email</a></p>
   
 </div>
