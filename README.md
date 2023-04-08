@@ -1,13 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=300&section=header&text=Hello,%20I'm%20Fergus&fontSize=90&animation=fadeIn&fontAlignY=35&desc=Fullstack%20Software%20Engineer%20)
 
 <div>
-  <div style="  display: flex; flex-direction: column;
-  align-items: center;" >
-    <a>Passionate about building and creating full-stack web solutions with</a>
-  <img  height="65" width="65" src="/becomeamernstackdeveloper-mobile.png" />
-  </div>
+  <a>Passionate about building and creating full-stack web solutions with MERN stack,</a>
   <br />
   <p>and building Mobile Applications with React Native + GraphQL + TyopeScript + AWS</p>
+  <br />
+  Constantly and enthusiastically exploring and learning new languages, framworks, and skills!
   <br />
   <p>🌐 Visit my <a href="https://www.fergusmagor.com">porfolio website</a> for more info</p>
   <br />
