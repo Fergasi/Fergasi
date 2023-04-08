@@ -1,7 +1,14 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=300&section=header&text=Hello,%20I'm%20Fergus&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=300&section=header&text=Hello,%20I'm%20Fergus&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Software%20Engineer%20)
+
+<div>
+  
+  Feel free to contact me via ✉ <a href="mailto:hello@fergusmagor.com">email</a>.
+  
+</div>
+<br />
+<br />
 
 
-Feel free to contact me via ✉ <a href="mailto:hello@fergusmagor.com">email</a>.
 
 
 <div style="display: flex; flex-wrap: wrap; padding-bottom: 25px;">
