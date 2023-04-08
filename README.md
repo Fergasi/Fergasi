@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello,%20I'm%20Fergus&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=300&section=header&text=Hello,%20I'm%20Fergus&fontSize=90)
 
 
 Feel free to contact me via ✉ <a href="mailto:hello@fergusmagor.com">email</a>.
@@ -44,7 +44,7 @@ Feel free to contact me via ✉ <a href="mailto:hello@fergusmagor.com">email</a>
   <img 
     height="35"
     width="35" 
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-original.svg"      
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg"      
     alt="GraphQL logo" 
   />
 <img 
@@ -110,35 +110,35 @@ Feel free to contact me via ✉ <a href="mailto:hello@fergusmagor.com">email</a>
   <img 
     height="35" 
     width="35" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
     alt="Github logo"
   />
     <img 
     height="35" 
     width="35" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
     alt="Git logo"
   />
   <img 
     height="35" 
     width="35" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
     alt="Express logo"
   />
   <img 
     height="35" 
     width="35" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original-wordmark.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"
     alt="Figma logo"
   />
     <img 
     height="35" 
     width="35" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg"
     alt="Jira logo"
   />
   
 </div>
 
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=60&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=60&section=footer)
