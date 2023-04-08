@@ -56,7 +56,7 @@ Feel free to contact me via ✉ <a href="mailto:hello@fergusmagor.com">email</a>
         <img 
     height="35"
     width="35" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"       
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"       
     alt="Tailwinds logo" 
   />
         <img 
