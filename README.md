@@ -141,4 +141,4 @@ Feel free to contact me via ✉ <a href="mailto:hello@fergusmagor.com">email</a>
 </div>
 
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&customColorList=1&height=60&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=60&section=footer)
