@@ -145,4 +145,4 @@
 </div>
 
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:ADD8E6,100:a82da8&height=60&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:ADD8E6,100:A2CFFE&height=60&section=footer)
