@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:ADD8E6,100:89CFF0&height=250&section=header&text=Hello,%20I'm%20Fergus&fontSize=50&animation=fadeIn&fontAlignY=35&desc=Fullstack%20Software%20Engineer%20)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:ADD8E6,100:A2CFFE&height=250&section=header&text=Hello,%20I'm%20Fergus&fontSize=50&animation=fadeIn&fontAlignY=35&desc=Fullstack%20Software%20Engineer%20)
 
 <div>
   <p>Constantly and enthusiastically exploring and learning new languages, framworks, and skills!</p>
@@ -145,4 +145,4 @@
 </div>
 
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=60&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:ADD8E6,100:a82da8&height=60&section=footer)
